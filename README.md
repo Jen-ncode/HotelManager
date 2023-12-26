@@ -20,6 +20,7 @@ Các tác nhân:
 - Khách hàng
 - Nhân viên
 - Người quản trị
+- ...
 
 Thành viên nhóm:
 ...
