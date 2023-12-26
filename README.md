@@ -1,12 +1,12 @@
 
 
-Yêu cầu báo cáo: #
+# Yêu cầu báo cáo:
 - Lược đồ use case, đặc tả use case (4 nghiệp vụ quan trọng nhất)
 - Vẽ Sequence diagram cho các luồng xử lý use case
 - Vẽ Activity diagram cho các nghiệp vụ quan trọng của hệ thống
 - Thiết kế giao diện
 
-Yêu cầu hệ thống: # phát triển website với Python Flask và CSDL MySQL
+# Yêu cầu hệ thống: phát triển website với Python Flask và CSDL MySQL
 
 # Đề tài  Quản lí khách sạn
 
