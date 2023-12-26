@@ -1,5 +1,5 @@
-# HotelManager
 
+#
 Yêu cầu báo cáo:
 - Lược đồ use case, đặc tả use case (4 nghiệp vụ quan trọng nhất)
 - Vẽ Sequence diagram cho các luồng xử lý use case
